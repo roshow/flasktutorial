@@ -1,0 +1,9 @@
+@charset 'UTF-8';
+
+body {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+.post {
+	color: blue;
+}
